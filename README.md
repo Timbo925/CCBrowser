@@ -1,1 +1,3 @@
 # CCBrowser
+ 
+ Launch with VM Options: -Djxbrowser.license.key=....
